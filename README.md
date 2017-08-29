@@ -1,8 +1,8 @@
 # FLAPBIRD
-Flappy Bird for Texas Instrument calculators
+Flappy Bird for TI-84 Plus calculators
 
 ## Prerequisites
-* You will definitely need a [TI graphing calculator](https://education.ti.com/en/products?category=graphing-calculators)
+* You will definitely need a [TI-84 Plus graphing calculator](https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-plus)
 * You will also need software on your computer so you can transfer the TI-BASIC files to your calculator: [Download TI Connect](https://education.ti.com/en/customer-support/download_stepbystep)
 * You'll need a [TI Connectivity Cable](https://education.ti.com/en/products/accessories/connectivity-kit) to connect your calculator to your computer
 
